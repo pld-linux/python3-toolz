@@ -6,7 +6,7 @@ Summary:	List processing tools and functional utilities
 Summary(pl.UTF-8):	Narzędzia do przetwarzania list oraz funkcyjne
 Name:		python3-toolz
 Version:	0.12.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/toolz/
