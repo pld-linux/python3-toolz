@@ -5,13 +5,13 @@
 Summary:	List processing tools and functional utilities
 Summary(pl.UTF-8):	Narzędzia do przetwarzania list oraz funkcyjne
 Name:		python3-toolz
-Version:	0.12.0
-Release:	3
+Version:	1.0.0
+Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/toolz/
 Source0:	https://files.pythonhosted.org/packages/source/t/toolz/toolz-%{version}.tar.gz
-# Source0-md5:	5ca1991596816c576b02237ab3d29f0c
+# Source0-md5:	e5573ee464e6498cad2c6b3fe17fa9f5
 URL:		https://pypi.org/project/toolz/
 BuildRequires:	python3-modules >= 1:3.5
 BuildRequires:	python3-setuptools
